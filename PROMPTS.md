@@ -71,6 +71,8 @@ A browsable list of questions and tasks you can copy/paste into your connected A
 - "What objections or hesitations come up most often before a purchase?"
 - "Are there products customers keep asking about that Shopping Assistant isn't surfacing?"
 
+> Want this as a repeatable monthly read? See the [`shopping-assistant-performance`](recipes/shopping-assistant-performance/) recipe.
+
 ## 💸 Revenue & conversion _**(beta — directional)**_
 *For owners and growth leads connecting support to the bottom line.*
 
@@ -79,6 +81,19 @@ A browsable list of questions and tasks you can copy/paste into your connected A
 - "Find my highest-spending customers who had a poor support experience this month."
 - "Which products drive the most post-purchase tickets relative to their sales volume?"
 - "Are returns concentrated in specific products or variants? Show me the worst offenders."
+
+## 🧵 Merchandising & catalog _(some figures heuristic)_
+*For merchandising and buying teams turning support signal into better products and pages.*
+
+- "Which products generate the most pre-sales questions, and what are shoppers unsure about?"
+- "What's missing from my [product] page that customers keep asking support about?"
+- "Why are customers returning [product]? Cluster the reasons."
+- "Which products have the biggest gap between how they're described online and what customers expected?"
+- "What sizing or fit issues come up most often, and for which products?"
+- "Are there product defects or quality complaints I should flag to my buying team?"
+- "Which products drive the most post-purchase tickets relative to how well they sell?"
+
+> Want this as a repeatable workflow? See the [`pdp-gap-finder`](recipes/pdp-gap-finder/) and [`returns-reduction`](recipes/returns-reduction/) recipes.
 
 ## 📊 Reporting & team updates
 *For anyone who has to report support performance up or out.*
