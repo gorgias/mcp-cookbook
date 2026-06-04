@@ -8,7 +8,7 @@ description: >-
 
 # Shareable Performance Report
 
-Pulling together a support recap every month is busywork. This recipe assembles the numbers and the story into something you can paste straight into Slack or a doc — no spreadsheet wrangling. Read-only.
+Every month you have to show leadership what CX actually delivered — and pulling the numbers together by hand is the part that eats your afternoon. This recipe assembles the metrics *and* the narrative into something you can paste straight into Slack or a board doc, so CX lands as a value center, not a cost line. Read-only.
 
 > **Heads up:** Gorgias MCP analytics are in **beta**. Figures here are directional and may differ slightly from your in-product Statistics dashboard. Use it for narrative and trends, and cross-check exact numbers in Statistics before reporting them up.
 
@@ -17,6 +17,7 @@ Pulling together a support recap every month is busywork. This recipe assembles 
 - Monthly/quarterly support recap for leadership
 - A weekly team pulse-check
 - Building the support slide for a wider business review
+- When you need hard numbers to defend headcount, budget, or your AI Agent investment
 
 ## Customize before you run
 

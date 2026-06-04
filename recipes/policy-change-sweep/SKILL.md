@@ -9,7 +9,7 @@ description: >-
 
 # Policy Change Sweep
 
-When you change a policy, the old version is usually hiding in a dozen places: an AI Agent Guidance, three Macros, a helpdesk rule. Miss one and your AI Agent contradicts your team. This recipe finds every reference and updates them in one pass — with you approving each change.
+When you change a policy, the old version is usually hiding in a dozen places: an AI Agent Guidance, three Macros, a helpdesk rule. Miss one and your AI Agent contradicts your team — which means wrong answers, CSAT hits, and repeat contacts landing right back in your queue. This recipe finds every reference and updates them in one pass — with you approving each change.
 
 This is the kind of sweep that's painful by hand and **impossible through the REST API alone** (Guidance has no bulk REST surface). The MCP is the only supported route.
 

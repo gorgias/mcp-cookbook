@@ -8,7 +8,7 @@ description: >-
 
 # Seasonal Prep (BFCM, Holidays, Sales)
 
-Every peak season brings the same predictable surge of questions — extended return windows, shipping cutoffs, "will it arrive by [date]", sale-price adjustments. This recipe gets your AI Agent and macros ready *before* the wave hits, and reminds you what to roll back when it's over. Drafts only.
+Peak is when CX is most visible to the whole company — and most likely to drown. Every season brings the same predictable surge — WISMO ("will it arrive by [date]"), extended return windows, shipping cutoffs, sale-price adjustments. This recipe gets your AI Agent and macros ready *before* the wave hits, so your team isn't writing the same answer 500 times, and reminds you what to roll back when it's over. Drafts only.
 
 ## When to use it
 

@@ -8,7 +8,7 @@ description: >-
 
 # Weekly Voice-of-Customer Digest
 
-Your tickets are the highest-signal feedback channel you have, and nobody has time to read them all. This recipe turns a week of tickets into a short, themed digest you can drop into Slack or a team doc. Read-only — it touches nothing in your account.
+You're the only person in the company who hears from every customer, every day — but that signal is buried in hundreds of tickets nobody else reads. This recipe turns a week of tickets into a short, themed digest you can drop into Slack, so Product, Merch, and Ops act on what you're already seeing. Read-only — it touches nothing in your account.
 
 ## When to use it
 
