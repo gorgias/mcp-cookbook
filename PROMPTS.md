@@ -4,6 +4,8 @@ A browsable list of questions and tasks you can copy/paste into your connected A
 
 **How to use this:** find your goal below, copy a prompt, and replace anything in `[brackets]` with your own values. Start simple — these are single-shot asks. For multi-step, repeatable workflows, see the [recipes](recipes/).
 
+> **If you have other tools connected** (Shopify, a data warehouse, etc.), Claude may not know which one to use — questions like *"what are my top products?"* are ambiguous. Start your message with **"Using the Gorgias MCP, …"** to point it at the right place.
+
 > **A note on analytics:** sections marked _**(beta — directional)**_ rely on analytics that are still in beta. Numbers may differ slightly from your in-product Statistics dashboard — great for spotting trends, but cross-check exact figures before reporting them up.
 
 ---

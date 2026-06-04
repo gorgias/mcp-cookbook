@@ -26,7 +26,7 @@ You're the only person in the company who hears from every customer, every day â
 
 ## The workflow
 
-> Build a Voice-of-Customer digest from my tickets over **{{WINDOW}}**, for **{{AUDIENCE}}**.
+> Using the **Gorgias MCP**, build a Voice-of-Customer digest from my Gorgias tickets over **{{WINDOW}}**, for **{{AUDIENCE}}**.
 >
 > 1. **Top contact reasons.** Group tickets by theme and rank them. Show volume and the week-over-week change for each.
 > 2. **Complaints & frustration.** Summarize the most common complaints, especially from low-CSAT tickets. Quote real customer language, don't paraphrase into corporate.

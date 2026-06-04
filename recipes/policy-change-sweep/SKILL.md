@@ -34,6 +34,7 @@ Replace these with your real values:
 
 Paste this into your connected AI client, with your values filled in:
 
+> Using the **Gorgias MCP**, sweep my Gorgias account for a policy change.
 > We changed our policy: **{{OLD_POLICY}} → {{NEW_POLICY}}** ({{EFFECTIVE_DATE}}).
 > Sweep my whole account for the old policy and prepare updates. Specifically:
 >

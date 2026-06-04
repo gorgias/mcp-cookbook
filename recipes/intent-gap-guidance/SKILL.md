@@ -26,7 +26,7 @@ The fastest way to raise AI Agent coverage isn't writing more Guidance — it's 
 
 ## The workflow
 
-> Help me close my AI Agent's biggest knowledge gaps.
+> Using the **Gorgias MCP**, help me close my Gorgias AI Agent's biggest knowledge gaps.
 >
 > 1. Look at my ticket intents over **{{WINDOW}}**. Identify high-volume topics (**{{MIN_VOLUME}}**) where my AI Agent has **no matching Guidance**, or where it's handing these over instead of resolving them.
 > 2. Rank the gaps by volume — biggest impact first.

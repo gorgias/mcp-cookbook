@@ -25,7 +25,7 @@ Helpdesk setups rot quietly. Tags multiply, macros go unused, permissions drift,
 
 ## The workflow
 
-> Run a helpdesk hygiene audit on my account. For each section, give me a short list with a clear recommendation — don't change anything.
+> Using the **Gorgias MCP**, run a helpdesk hygiene audit on my Gorgias account. For each section, give me a short list with a clear recommendation — don't change anything.
 >
 > 1. **Tag taxonomy.** Flag tags that are redundant, inconsistently named (e.g. `return` vs `returns` vs `Return`), or used on almost no tickets. Suggest merges and renames.
 > 2. **Stale macros.** Find macros not used in the last **{{STALE_DAYS}}**. For each, tell me whether to update or retire it.

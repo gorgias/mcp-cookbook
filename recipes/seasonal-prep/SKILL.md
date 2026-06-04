@@ -26,7 +26,7 @@ Peak is when CX is most visible to the whole company — and most likely to drow
 
 ## The workflow
 
-> Help me prep for **{{EVENT}}**. Temporary policies in effect: **{{TEMP_POLICIES}}**. Key dates: **{{KEY_DATES}}**.
+> Using the **Gorgias MCP**, help me prep my Gorgias account for **{{EVENT}}**. Temporary policies in effect: **{{TEMP_POLICIES}}**. Key dates: **{{KEY_DATES}}**.
 >
 > 1. **Anticipate the surge.** Based on **{{EXPECTED_SPIKES}}** and what happened in past peak periods, list the question types likely to spike.
 > 2. **Draft seasonal Guidance.** For each, draft Guidance reflecting the temporary policies — clearly marked as seasonal so it's easy to find later.

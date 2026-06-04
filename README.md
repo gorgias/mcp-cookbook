@@ -51,6 +51,8 @@ Most day-to-day tasks don't need a recipe — the MCP handles them from a single
 
 👉 **See [PROMPTS.md](PROMPTS.md) for the full library** — 50+ questions organized by goal, from Voice-of-Customer and helpdesk ops to Shopping Assistant & revenue insights.
 
+> **Tip:** if you have other tools connected (Shopify, a data warehouse, etc.), start your message with **"Using the Gorgias MCP, …"** so Claude knows which integration to use. The recipes already do this for you.
+
 ---
 
 ## Important

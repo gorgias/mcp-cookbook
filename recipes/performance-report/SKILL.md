@@ -31,7 +31,7 @@ Every month you have to show leadership what CX actually delivered — and pulli
 
 ## The workflow
 
-> Build a support performance report for **{{PERIOD}}** ({{COMPARE_TO}}), for **{{AUDIENCE}}**, formatted as **{{FORMAT}}**.
+> Using the **Gorgias MCP**, build a support performance report for **{{PERIOD}}** ({{COMPARE_TO}}), for **{{AUDIENCE}}**, formatted as **{{FORMAT}}**.
 >
 > 1. **Headline metrics:** {{METRICS}}. Show each with the change vs the comparison period.
 > 2. **What drove volume:** the top contact reasons, and any notable shifts.

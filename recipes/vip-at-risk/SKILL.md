@@ -26,7 +26,7 @@ Not every unhappy customer is worth a personal save — but your best ones are. 
 
 ## The workflow
 
-> Find my high-value customers who had a bad support experience in **{{WINDOW}}**.
+> Using the **Gorgias MCP**, find my high-value customers who had a bad support experience in **{{WINDOW}}**.
 >
 > 1. Define value as: **{{VIP_DEFINITION}}**. Use whatever signals the MCP can see (Shopify spend via the connected store, VIP tags, order count).
 > 2. Define a bad experience as: **{{BAD_EXPERIENCE}}**.
