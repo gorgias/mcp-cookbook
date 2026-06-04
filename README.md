@@ -24,19 +24,37 @@ You'll be prompted for your subdomain, then sign in with your Gorgias credential
 
 ## Recipes
 
-Each recipe lives in [`recipes/`](recipes/) as a self-contained `SKILL.md`. Copy the folder into your AI client's skills directory (e.g. `~/.claude/skills/`), or just paste the workflow into a chat.
+Each recipe lives in [`recipes/`](recipes/) as a self-contained `SKILL.md`. Copy the folder into your AI client's skills directory (e.g. `~/.claude/skills/`), or just paste the workflow into a chat. **Recipes are grouped by who gets the most out of them** — but many serve more than one team, so browse across.
 
-| Recipe | What it does | Writes to your account? |
+### 🎧 For the CX / Support Lead
+*Protect CSAT and SLA, automate the repetitive volume, prove CX is a value center.*
+
+| Recipe | What it does | Writes? |
 |---|---|---|
-| [policy-change-sweep](recipes/policy-change-sweep/) | Find and update every Guidance, Macro, and rule that references an old policy | ✅ Yes (you approve) |
-| [cx-intelligence-digest](recipes/cx-intelligence-digest/) | A weekly executive CX digest across 5 functions — TLDR, signal tagging, PDP-gap table, owner-tagged actions | ❌ Read-only (optional Notion publish) |
-| [weekly-voc-digest](recipes/weekly-voc-digest/) | A repeatable Voice-of-Customer report: top contact reasons, complaints, restock asks | ❌ Read-only |
-| [monthly-helpdesk-hygiene](recipes/monthly-helpdesk-hygiene/) | Audit tags, stale macros, permissions, and rule gaps on a cadence | ❌ Read-only (suggests fixes) |
-| [intent-gap-guidance](recipes/intent-gap-guidance/) | Find high-volume intents with no matching Guidance, and draft one for each | ✅ Yes (drafts only) |
-| [backlog-triage](recipes/backlog-triage/) | Draft replies for your oldest unresolved tickets, in bulk, for you to review | ✅ Yes (drafts only) |
-| [vip-at-risk](recipes/vip-at-risk/) | Surface high-value customers who had a bad experience this period | ❌ Read-only |
-| [performance-report](recipes/performance-report/) | A shareable report of your support performance for the team | ❌ Read-only |
-| [seasonal-prep](recipes/seasonal-prep/) | Prep Guidance and Macros for a seasonal event (BFCM, holidays, sales) | ✅ Yes (drafts only) |
+| [backlog-triage](recipes/backlog-triage/) | Draft replies for your oldest unresolved tickets, in bulk, to review and send | ✅ Drafts only |
+| [intent-gap-guidance](recipes/intent-gap-guidance/) | Find high-volume intents with no Guidance, and draft one for each | ✅ Drafts only |
+| [monthly-helpdesk-hygiene](recipes/monthly-helpdesk-hygiene/) | Audit tags, stale macros, permissions, and rule gaps on a cadence | ❌ Suggests fixes |
+| [policy-change-sweep](recipes/policy-change-sweep/) | Update every Guidance, Macro, and rule that references an old policy | ✅ You approve |
+| [performance-report](recipes/performance-report/) | A shareable report of your support performance for leadership | ❌ Read-only |
+| [weekly-voc-digest](recipes/weekly-voc-digest/) | A repeatable Voice-of-Customer report to feed the rest of the org | ❌ Read-only |
+
+### 🛒 For the Ecommerce / Merchandising Lead
+*Lift conversion and AOV, cut returns, and run pre-sales as a revenue channel.*
+
+| Recipe | What it does | Writes? |
+|---|---|---|
+| [pdp-gap-finder](recipes/pdp-gap-finder/) | Find which products confuse shoppers and exactly what to add to each PDP | ❌ Read-only |
+| [returns-reduction](recipes/returns-reduction/) | Cluster *why* customers return, by product, and fix the root cause | ❌ Read-only |
+| [shopping-assistant-performance](recipes/shopping-assistant-performance/) | Read Shopping Assistant as a revenue channel — recommendations, conversion, revenue | ❌ Read-only |
+| [seasonal-prep](recipes/seasonal-prep/) | Prep Guidance and Macros for a seasonal event (BFCM, holidays, sales) | ✅ Drafts only |
+| [vip-at-risk](recipes/vip-at-risk/) | Surface high-value shoppers who had a bad experience, before you lose them | ❌ Read-only |
+
+### 🧭 For Leadership (cross-functional)
+*One readout that turns support into company-wide intelligence.*
+
+| Recipe | What it does | Writes? |
+|---|---|---|
+| [cx-intelligence-digest](recipes/cx-intelligence-digest/) | A weekly executive digest across 5 functions — TLDR, signal tagging, PDP-gap table, owner-tagged actions | ❌ Read-only (optional Notion publish) |
 
 ---
 
