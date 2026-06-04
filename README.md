@@ -46,7 +46,6 @@ Each recipe lives in [`recipes/`](recipes/) as a self-contained `SKILL.md`. Copy
 | [returns-reduction](recipes/returns-reduction/) | Cluster *why* customers return, by product, and fix the root cause | ❌ Read-only |
 | [shopping-assistant-performance](recipes/shopping-assistant-performance/) | Read Shopping Assistant as a revenue channel — recommendations, conversion, revenue | ❌ Read-only |
 | [seasonal-prep](recipes/seasonal-prep/) | Prep Guidance and Macros for a seasonal event (BFCM, holidays, sales) | ✅ Drafts only |
-| [vip-at-risk](recipes/vip-at-risk/) | Surface high-value shoppers who had a bad experience, before you lose them | ❌ Read-only |
 
 ### 💌 For the Marketing / Retention Lead
 *Turn support signal into segments, demand, and copy — repeat purchase, win-back, and messaging.*
@@ -84,7 +83,7 @@ Most day-to-day tasks don't need a recipe — the MCP handles them from a single
 ## Important
 
 - **You're always in control.** Recipes that write to your account create **drafts** or **ask for confirmation** first. Nothing publishes or sends without your say-so. Review before you approve.
-- **These are templates.** Every recipe has a *"Customize before you run"* section. Swapping in your real values (return windows, VIP thresholds, tags) is the whole point — don't run them blind.
+- **These are templates.** Every recipe has a *"Customize before you run"* section. Swapping in your real values (return windows, demand thresholds, tags) is the whole point — don't run them blind.
 - **Analytics are in beta.** Reporting recipes are best-effort and may differ slightly from your Statistics dashboard. Treat them as directional.
 
 ## Contributing

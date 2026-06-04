@@ -42,6 +42,6 @@ Nothing in Gorgias — read-only. It produces a list of *your own* customers' co
 
 ## Tips
 
-- Pull the high-value slice with [`vip-at-risk`](../vip-at-risk/) first — those deserve a richer offer or a personal note, not a bulk blast.
+- Prioritize your highest-value customers in the list — they deserve a richer offer or a personal note, not a bulk blast.
 - Match the gesture to the reason: a defect win-back needs a replacement or credit, not 10% off.
 - Suppress anyone who's still unhappy or mid-conversation — re-marketing to an open complaint backfires.
