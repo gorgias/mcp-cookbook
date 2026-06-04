@@ -31,7 +31,6 @@ Each recipe lives in [`recipes/`](recipes/) as a self-contained `SKILL.md`. Copy
 
 | Recipe | What it does | Writes? |
 |---|---|---|
-| [backlog-triage](recipes/backlog-triage/) | Draft replies for your oldest unresolved tickets, in bulk, to review and send | ✅ Drafts only |
 | [intent-gap-guidance](recipes/intent-gap-guidance/) | Find high-volume intents with no Guidance, and draft one for each | ✅ Drafts only |
 | [monthly-helpdesk-hygiene](recipes/monthly-helpdesk-hygiene/) | Audit tags, stale macros, permissions, and rule gaps on a cadence | ❌ Suggests fixes |
 | [policy-change-sweep](recipes/policy-change-sweep/) | Update every Guidance, Macro, and rule that references an old policy | ✅ You approve |
