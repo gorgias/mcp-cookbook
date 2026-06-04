@@ -95,6 +95,18 @@ A browsable list of questions and tasks you can copy/paste into your connected A
 
 > Want this as a repeatable workflow? See the [`pdp-gap-finder`](recipes/pdp-gap-finder/) and [`returns-reduction`](recipes/returns-reduction/) recipes.
 
+## 💌 Marketing & retention
+*For marketing, CRM, and retention owners turning support signal into segments and copy.*
+
+- "Build a win-back list of customers who had a problem in the last 90 days that's now resolved (email, first name, reason)."
+- "Which customers asked about out-of-stock products? Build a back-in-stock notify list per product."
+- "What objections come up most before customers buy [product]? Turn them into ad angles."
+- "Pull verbatim customer quotes about [topic] I can use as copy — redact any personal info."
+- "Which resolved issues would make a good proactive 'we fixed this' announcement, and to whom?"
+- "What are customers asking for that we don't offer yet? Rank by how often it comes up."
+
+> Want these as repeatable workflows? See [`winback-list-builder`](recipes/winback-list-builder/), [`restock-demand-list`](recipes/restock-demand-list/), and [`voc-to-messaging`](recipes/voc-to-messaging/).
+
 ## 📊 Reporting & team updates
 *For anyone who has to report support performance up or out.*
 
