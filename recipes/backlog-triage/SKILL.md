@@ -27,7 +27,7 @@ When the queue blows up, every hour it sits is a CSAT hit and an SLA breach — 
 
 ## The workflow
 
-> Help me clear my backlog. Scope: **{{SCOPE}}**, **{{AGE_THRESHOLD}}**.
+> Using the **Gorgias MCP**, help me clear my Gorgias ticket backlog. Scope: **{{SCOPE}}**, **{{AGE_THRESHOLD}}**.
 >
 > 1. Pull those tickets and **group them** by what the customer actually needs (status update, return, where-is-my-order, etc.).
 > 2. For each group, tell me how many there are and the common ask.

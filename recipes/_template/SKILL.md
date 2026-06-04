@@ -27,8 +27,9 @@ Replace these with your real values:
 
 ## The workflow
 
-> Paste this into your connected AI client, with your values filled in:
+> Paste this into your connected AI client, with your values filled in. Always open with an explicit anchor — **"Using the Gorgias MCP, …"** — so the right integration is used when other tools (Shopify, etc.) are also connected:
 >
+> Using the **Gorgias MCP**, [the task in one line].
 > 1. First step — what to read or gather.
 > 2. Next step — the analysis or grouping.
 > 3. The action — and whether to draft vs. ask first.
