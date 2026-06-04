@@ -8,7 +8,7 @@ description: >-
 
 # Intent-Gap → Guidance
 
-The fastest way to raise AI Agent coverage isn't writing more Guidance — it's writing the *right* Guidance. This recipe finds the topics customers ask about most that your AI Agent currently has no answer for, and drafts Guidance for each, ranked by impact. Drafts only; you review and publish.
+The fastest way to raise AI Agent coverage isn't writing more Guidance — it's writing the *right* Guidance. Every gap you close is repetitive volume your team never has to touch again. This recipe finds the topics customers ask about most that your AI Agent currently has no answer for, and drafts Guidance for each, ranked by impact. Drafts only; you review and publish.
 
 ## When to use it
 

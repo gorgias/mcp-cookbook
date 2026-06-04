@@ -8,7 +8,7 @@ description: >-
 
 # Monthly Helpdesk Hygiene Audit
 
-Helpdesk setups rot quietly. Tags multiply, macros go unused, permissions drift, rules develop blind spots. This recipe runs a structured audit so cleanup is a 20-minute monthly ritual instead of a once-a-year archaeology dig. It only *suggests* — you decide what to clean.
+Helpdesk setups rot quietly. Tags multiply, macros go unused, permissions drift, rules develop blind spots — and messy tags are exactly why your reporting stops being trustworthy. This recipe runs a structured audit so cleanup is a 20-minute monthly ritual instead of a once-a-year archaeology dig, and so the numbers you present upward actually hold up. It only *suggests* — you decide what to clean.
 
 ## When to use it
 

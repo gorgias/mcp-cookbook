@@ -8,7 +8,7 @@ description: >-
 
 # Backlog Triage & Draft
 
-When the queue blows up, the slowest part isn't typing — it's context-switching across dozens of half-similar tickets. This recipe reads your oldest open tickets, groups them, and drafts a reply for each so you can review and send in batches. Drafts only — nothing sends without you.
+When the queue blows up, every hour it sits is a CSAT hit and an SLA breach — and the slowest part isn't typing, it's context-switching across dozens of half-similar tickets. This recipe reads your oldest open tickets, groups them, and drafts a reply for each so you and your agents can review and send in batches. Drafts only — nothing sends without you.
 
 ## When to use it
 
