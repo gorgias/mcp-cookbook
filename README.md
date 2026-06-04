@@ -41,29 +41,14 @@ Each recipe lives in [`recipes/`](recipes/) as a self-contained `SKILL.md`. Copy
 
 ## What can I just *ask* it?
 
-Most day-to-day tasks don't need a recipe — the MCP handles them from a single prompt. Copy/paste these into your AI client once you're connected:
+Most day-to-day tasks don't need a recipe — the MCP handles them from a single prompt. A few to get started:
 
-### AI Agent setup & improvement
-- *"Audit my AI Agent setup and flag any handover conditions that seem too broad."*
-- *"Review my AI Agent Guidance and draft improvements for the 3 weakest entries."*
-- *"Simulate how my AI Agent would respond to this before I enable it: [paste a customer message]."*
-- *"Are there topics my customers ask about that my AI Agent isn't configured to handle?"*
-- *"In ticket #[number] the AI Agent didn't respond correctly — help me find why and fix it."*
-- *"Which topics is my AI Agent handing over that it could safely handle? Adjust my handover settings."*
-- *"Convert my existing Flows into AI Agent Guidance."*
-- *"Generate a tone of voice for my AI Agent from the style of my website, then apply it."*
-
-### Voice of customer
 - *"What are the top reasons customers contacted us this month? Group them by theme."*
-- *"Summarize the most common complaints from low-CSAT tickets in the past 30 days."*
-- *"What products are customers asking us to restock most often?"*
-- *"Find patterns in tickets tagged 'returns' and tell me the reasons customers give."*
-
-### Helpdesk operations
+- *"Audit my AI Agent setup and flag any handover conditions that seem too broad."*
 - *"Find all open tickets tagged '[tag]' and summarize what customers are asking for."*
-- *"Post an internal note on ticket #[number] flagging it for the fulfillment team."*
-- *"Update all tickets from the last 24h that mention [issue] to priority: urgent."*
-- *"Reply to ticket #[number] letting the customer know their order shipped, then close it."*
+- *"Build a support performance recap for last month, formatted for a Slack post."*
+
+👉 **See [PROMPTS.md](PROMPTS.md) for the full library** — 50+ questions organized by goal, from Voice-of-Customer and helpdesk ops to Shopping Assistant & revenue insights.
 
 ---
 
