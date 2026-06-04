@@ -3,7 +3,7 @@ name: vip-at-risk
 description: >-
   Surface your high-value customers who had a poor support experience this period
   — low CSAT, long waits, repeat contacts, or unresolved issues — so you can make
-  it right before they churn. Read-only.
+  it right before you lose them for good. Read-only.
 ---
 
 # VIP-at-Risk Detection
@@ -14,7 +14,7 @@ Not every unhappy customer is worth a personal save — but your best ones are. 
 
 - A weekly or monthly retention ritual
 - After a known bad stretch (shipping issue, defect, outage)
-- Before a CSM or founder reaches out personally
+- Before you or someone on your team reaches out personally
 
 ## Customize before you run
 
@@ -41,5 +41,5 @@ Not every unhappy customer is worth a personal save — but your best ones are. 
 ## Tips
 
 - Keep `{{VIP_DEFINITION}}` honest to your business — lifetime spend, subscription status, or a manual VIP tag all work.
-- Pair the outreach with a real gesture (discount, expedited replacement) — an apology alone rarely saves a churning VIP.
+- Pair the outreach with a real gesture (discount, expedited replacement) — an apology alone rarely wins back an unhappy high-value shopper.
 - If the same root cause keeps hitting VIPs, that's a [`weekly-voc-digest`](../weekly-voc-digest/) headline, not a one-off.
