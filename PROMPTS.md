@@ -41,8 +41,6 @@ A browsable list of questions and tasks you can copy/paste into your connected A
 - "Find all open tickets tagged '[tag]' and summarize what customers are asking for."
 - "Post an internal note on ticket #[number] flagging it for the fulfillment team."
 - "Update all tickets from the last 24h that mention [issue] to priority: urgent."
-- "Reply to ticket #[number] letting the customer know their order shipped, then close it."
-- "Draft a reply to ticket #[number] using the order details on the customer's account."
 - "Which tickets have been open longest without a reply? Group them by what the customer needs."
 - "Apply the [macro name] macro to all open tickets about [topic]."
 
