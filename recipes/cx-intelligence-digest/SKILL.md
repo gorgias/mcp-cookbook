@@ -14,6 +14,8 @@ Your support queue is the highest-signal feedback loop in the business — but t
 
 It's the heavyweight sibling of [`weekly-voc-digest`](../weekly-voc-digest/): that one is a quick VoC pulse; this is the full cross-functional readout you'd send to leadership. Read-only on Gorgias — it can optionally publish straight to Notion.
 
+> **Heads up:** the volume, automation, and resolution figures rely on Gorgias MCP analytics, which are in **beta** and directional. The prompt's built-in rules (no invented data, `(heuristic)` labels, small-sample caveats) keep it honest — cross-check exact numbers in your Statistics dashboard before reporting them up.
+
 ## When to use it
 
 - A weekly leadership/cross-functional CX readout

@@ -49,6 +49,15 @@ Each recipe lives in [`recipes/`](recipes/) as a self-contained `SKILL.md`. Copy
 | [seasonal-prep](recipes/seasonal-prep/) | Prep Guidance and Macros for a seasonal event (BFCM, holidays, sales) | ✅ Drafts only |
 | [vip-at-risk](recipes/vip-at-risk/) | Surface high-value shoppers who had a bad experience, before you lose them | ❌ Read-only |
 
+### 💌 For the Marketing / Retention Lead
+*Turn support signal into segments, demand, and copy — repeat purchase, win-back, and messaging.*
+
+| Recipe | What it does | Writes? |
+|---|---|---|
+| [winback-list-builder](recipes/winback-list-builder/) | Build a win-back segment from customers who hit a problem, ready for your ESP | ❌ Read-only |
+| [restock-demand-list](recipes/restock-demand-list/) | Build a back-in-stock notify list, ranked by demand, from restock requests | ❌ Read-only |
+| [voc-to-messaging](recipes/voc-to-messaging/) | Turn real customer language into ad angles, FAQ, and copy | ❌ Read-only |
+
 ### 🧭 For Leadership (cross-functional)
 *One readout that turns support into company-wide intelligence.*
 
@@ -86,3 +95,7 @@ Got a workflow that saved you hours? We'd love to add it. See [CONTRIBUTING.md](
 ## Questions & feedback
 
 Open an [issue](https://github.com/gorgias/mcp-cookbook/issues), or reach out to your Gorgias contact.
+
+## License
+
+[MIT](LICENSE) — fork it, adapt it, ship it.
