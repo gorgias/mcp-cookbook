@@ -29,6 +29,7 @@ Each recipe lives in [`recipes/`](recipes/) as a self-contained `SKILL.md`. Copy
 | Recipe | What it does | Writes to your account? |
 |---|---|---|
 | [policy-change-sweep](recipes/policy-change-sweep/) | Find and update every Guidance, Macro, and rule that references an old policy | ✅ Yes (you approve) |
+| [cx-intelligence-digest](recipes/cx-intelligence-digest/) | A weekly executive CX digest across 5 functions — TLDR, signal tagging, PDP-gap table, owner-tagged actions | ❌ Read-only (optional Notion publish) |
 | [weekly-voc-digest](recipes/weekly-voc-digest/) | A repeatable Voice-of-Customer report: top contact reasons, complaints, restock asks | ❌ Read-only |
 | [monthly-helpdesk-hygiene](recipes/monthly-helpdesk-hygiene/) | Audit tags, stale macros, permissions, and rule gaps on a cadence | ❌ Read-only (suggests fixes) |
 | [intent-gap-guidance](recipes/intent-gap-guidance/) | Find high-volume intents with no matching Guidance, and draft one for each | ✅ Yes (drafts only) |
