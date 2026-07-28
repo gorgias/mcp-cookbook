@@ -10,7 +10,7 @@ These recipes don't re-explain how Gorgias works — the MCP already knows that.
 
 ## What is the Gorgias MCP?
 
-The [Gorgias MCP](https://mcp.gorgias.com) is a first-party connector that plugs your Gorgias account into any AI client that speaks [MCP](https://modelcontextprotocol.io) — Claude, ChatGPT, Cursor, and more. Once connected, your AI assistant can read and act on your tickets, customers, tags, macros, knowledge (Guidance), Workflows, and AI Agent settings — all scoped to your account, via OAuth.
+The [Gorgias MCP](https://mcp.gorgias.com) is a first-party connector that plugs your Gorgias account into any AI client that speaks [MCP](https://modelcontextprotocol.io) — Claude, ChatGPT, Cursor, and more. Once connected, your AI assistant can read and act on your tickets, customers, tags, macros, knowledge (Skills), Workflows, and AI Agent settings — all scoped to your account, via OAuth.
 
 **Setup takes ~2 minutes.** See the [official install guide](https://docs.gorgias.com/en-US/connect-your-ai-assistant-to-gorgias-6310546).
 
@@ -31,9 +31,9 @@ Each recipe lives in [`recipes/`](recipes/) as a self-contained `SKILL.md`. Copy
 
 | Recipe | What it does | Writes? |
 |---|---|---|
-| [intent-gap-guidance](recipes/intent-gap-guidance/) | Find high-volume intents with no Guidance, and draft one for each | ✅ Drafts only |
+| [intent-gap-skills](recipes/intent-gap-skills/) | Find high-volume intents with no matching Skill, and draft one for each | ✅ Drafts only |
 | [monthly-helpdesk-hygiene](recipes/monthly-helpdesk-hygiene/) | Audit tags, stale macros, permissions, and rule gaps on a cadence | ❌ Suggests fixes |
-| [policy-change-sweep](recipes/policy-change-sweep/) | Update every Guidance, Macro, and rule that references an old policy | ✅ You approve |
+| [policy-change-sweep](recipes/policy-change-sweep/) | Update every Skill, Macro, and rule that references an old policy | ✅ You approve |
 | [performance-report](recipes/performance-report/) | A shareable report of your support performance for leadership | ❌ Read-only |
 | [weekly-voc-digest](recipes/weekly-voc-digest/) | A repeatable Voice-of-Customer report to feed the rest of the org | ❌ Read-only |
 
@@ -45,7 +45,7 @@ Each recipe lives in [`recipes/`](recipes/) as a self-contained `SKILL.md`. Copy
 | [pdp-gap-finder](recipes/pdp-gap-finder/) | Find which products confuse shoppers and exactly what to add to each PDP | ❌ Read-only |
 | [returns-reduction](recipes/returns-reduction/) | Cluster *why* customers return, by product, and fix the root cause | ❌ Read-only |
 | [shopping-assistant-performance](recipes/shopping-assistant-performance/) | Read Shopping Assistant as a revenue channel — recommendations, conversion, revenue | ❌ Read-only |
-| [seasonal-prep](recipes/seasonal-prep/) | Prep Guidance and Macros for a seasonal event (BFCM, holidays, sales) | ✅ Drafts only |
+| [seasonal-prep](recipes/seasonal-prep/) | Prep Skills and Macros for a seasonal event (BFCM, holidays, sales) | ✅ Drafts only |
 
 ### 💌 For the Marketing / Retention Lead
 *Turn support signal into segments, demand, and copy — repeat purchase, win-back, and messaging.*

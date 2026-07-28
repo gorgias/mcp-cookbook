@@ -53,6 +53,6 @@ Nothing — read-only.
 
 ## Tips
 
-- Recurring **handover reasons** are pre-sales questions the assistant couldn't close — feed them to [`intent-gap-guidance`](../intent-gap-guidance/) so it can next time.
+- Recurring **handover reasons** are pre-sales questions the assistant couldn't close — feed them to [`intent-gap-skills`](../intent-gap-skills/) so it can next time.
 - Pre-sales topics that map to specific products belong in [`pdp-gap-finder`](../pdp-gap-finder/) — answer them on the page *and* in the assistant.
 - Some signals (e.g. product-link clicks / add-to-cart from a card) may not be available yet — if a number comes back empty, it's a current limitation, not a data error.

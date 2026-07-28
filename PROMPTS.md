@@ -14,12 +14,12 @@ A browsable list of questions and tasks you can copy/paste into your connected A
 *For whoever owns AI Agent — CX leads, support managers.*
 
 - "Audit my AI Agent setup and flag any handover conditions that seem too broad or likely to cause unnecessary escalations."
-- "Review my AI Agent Guidance and draft improvements for the 3 weakest entries."
+- "Review my AI Agent Skills and draft improvements for the 3 weakest entries."
 - "Simulate how my AI Agent would respond to this before I enable it: [paste a customer message]."
 - "Are there topics my customers ask about that my AI Agent isn't configured to handle?"
 - "In ticket #[number] the AI Agent didn't respond correctly — help me find why and fix it."
 - "Which topics is my AI Agent handing over that it could safely handle? Adjust my handover settings."
-- "Convert my existing Flows into AI Agent Guidance."
+- "Convert my existing Flows into AI Agent Skills."
 - "Generate a tone of voice for my AI Agent from the style of my website, then apply it."
 - "Where am I in my AI Agent rollout, and what are the 3 highest-impact things to do next?"
 
@@ -51,7 +51,7 @@ A browsable list of questions and tasks you can copy/paste into your connected A
 - "Find macros that haven't been used in the last 90 days and suggest which to update or retire."
 - "Check if any agents have permissions that don't match their current role."
 - "Are there gaps in my helpdesk rules that could let tickets fall through the cracks?"
-- "List every Macro, Guidance, and rule that mentions [old policy] so I can update them."
+- "List every Macro, Skill, and rule that mentions [old policy] so I can update them."
 
 ## 🛍️ Shopping Assistant & pre-sales _**(beta — directional)**_
 *For growth, merchandising, and e-commerce owners — the revenue side of support.*

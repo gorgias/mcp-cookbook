@@ -37,7 +37,7 @@ Replace these with your real values:
 
 ## What it writes
 
-Be explicit. "Nothing — read-only." Or: "Creates Guidance/Macro **drafts**; you
+Be explicit. "Nothing — read-only." Or: "Creates Skill/Macro **drafts**; you
 review and publish. Nothing publishes or sends automatically."
 
 ## Tips

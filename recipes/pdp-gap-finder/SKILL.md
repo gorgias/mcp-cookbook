@@ -44,4 +44,4 @@ Nothing — read-only. Hand the table to whoever owns the storefront.
 
 - Pair with [`returns-reduction`](../returns-reduction/): products with the worst PDP gaps are usually the worst return offenders too — fix the page, cut the returns.
 - Re-run after you ship the PDP changes to see if the question volume actually dropped — that's your proof the fix worked.
-- The same gaps are great [`intent-gap-guidance`](../intent-gap-guidance/) candidates: if shoppers keep asking it, your AI Agent should answer it too.
+- The same gaps are great [`intent-gap-skills`](../intent-gap-skills/) candidates: if shoppers keep asking it, your AI Agent should answer it too.

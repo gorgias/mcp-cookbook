@@ -8,7 +8,7 @@ A recipe is a **playbook you adapt**, not a feature of the product. Before you w
 
 - ✅ **It's a process.** Multiple steps, or something you run on a cadence.
 - ✅ **It has variables.** Things the next person must swap in — their tags, thresholds, policies. If there's nothing to customize, it's probably just a prompt (add it to the README's "What can I just ask it?" list instead).
-- ✅ **It leans on the MCP, doesn't re-explain it.** Don't document how Guidance or Macros work — the MCP already knows. Show *what to do* with them.
+- ✅ **It leans on the MCP, doesn't re-explain it.** Don't document how Skills or Macros work — the MCP already knows. Show *what to do* with them.
 - ❌ **Not a product mechanic or a one-liner.** Single questions like *"summarize my low-CSAT tickets"* belong in the README prompt list, not as a recipe.
 - ❌ **Not a replacement for AI Agent.** Recipes should help merchants *set up, improve, and analyze* their helpdesk and AI Agent — not have an external LLM answer customer tickets in bulk. Automating customer-facing replies at scale is exactly what Gorgias AI Agent is for; a recipe that does it instead competes with the product rather than driving adoption of it. (Internal actions — notes, tags, priorities, macros — and one-off agent assist are fine.)
 

@@ -112,4 +112,4 @@ Tone & formatting
 - **Run it weekly.** Save it as a scheduled task and only update the date window each run.
 - **The trust rules are load-bearing.** "No invented data" and the `(heuristic)` labels are what make leadership believe the numbers — keep them in any variant.
 - **Single-week caveat:** the 🟢/🟡 status calls are directional until you feed it multi-week data. For true trends, run it against several weeks and ask it to compare.
-- Pair with [`intent-gap-guidance`](../intent-gap-guidance/): the recurring pains this surfaces are exactly what your AI Agent should learn to handle next.
+- Pair with [`intent-gap-skills`](../intent-gap-skills/): the recurring pains this surfaces are exactly what your AI Agent should learn to handle next.
