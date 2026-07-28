@@ -2,7 +2,7 @@
 name: seasonal-prep
 description: >-
   Get your helpdesk and AI Agent ready for a seasonal event — BFCM, holidays, a
-  big sale, a product drop. Drafts the temporary Guidance and Macros you'll need
+  big sale, a product drop. Drafts the temporary Skills and Macros you'll need
   for the surge, and flags what to revert afterward. Drafts only.
 ---
 
@@ -29,18 +29,18 @@ Peak is when CX is most visible to the whole company — and most likely to drow
 > Using the **Gorgias MCP**, help me prep my Gorgias account for **{{EVENT}}**. Temporary policies in effect: **{{TEMP_POLICIES}}**. Key dates: **{{KEY_DATES}}**.
 >
 > 1. **Anticipate the surge.** Based on **{{EXPECTED_SPIKES}}** and what happened in past peak periods, list the question types likely to spike.
-> 2. **Draft seasonal Guidance.** For each, draft Guidance reflecting the temporary policies — clearly marked as seasonal so it's easy to find later.
+> 2. **Draft seasonal Skills.** For each, draft a Skill reflecting the temporary policies — clearly marked as seasonal so it's easy to find later.
 > 3. **Draft seasonal Macros.** Canned replies for the team for the same scenarios (shipping cutoffs, promo issues, extended returns).
 > 4. **Flag the rollback.** List everything you created and the date/condition to revert or disable it, so temporary policy doesn't silently become permanent.
-> 5. Create Guidance and Macros as **drafts** for me to review and publish.
+> 5. Create Skills and Macros as **drafts** for me to review and publish.
 
 ## What it writes
 
-- **Guidance drafts** and **Macro drafts**. You review and publish.
+- **Skill drafts** and **Macro drafts**. You review and publish.
 - A **rollback checklist** (text) so nothing temporary lingers.
 
 ## Tips
 
 - Tag or name everything `seasonal-{{EVENT}}` so cleanup is one search later.
 - After the event, run [`policy-change-sweep`](../policy-change-sweep/) in reverse to revert temporary policies cleanly.
-- Preview the high-traffic ones before going live: *"Simulate how my AI Agent answers 'can I still return my Black Friday order?' with the seasonal Guidance enabled."*
+- Preview the high-traffic ones before going live: *"Simulate how my AI Agent answers 'can I still return my Black Friday order?' with the seasonal Skill enabled."*

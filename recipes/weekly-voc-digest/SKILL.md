@@ -43,5 +43,5 @@ Nothing. Pure read.
 ## Tips
 
 - Make it a real cadence: combine with the [`schedule`](https://docs.claude.com) capability in your client, or just keep the prompt in a saved note.
-- If a theme spikes, hand off to the [`intent-gap-guidance`](../intent-gap-guidance/) recipe to close the gap in your AI Agent.
+- If a theme spikes, hand off to the [`intent-gap-skills`](../intent-gap-skills/) recipe to close the gap in your AI Agent.
 - Ask it to compare two windows: *"How does this week compare to the same week last month?"*
